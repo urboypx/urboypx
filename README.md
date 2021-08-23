@@ -24,7 +24,6 @@
 <br/><br/>
 <br/><br/>
 <br/><br/>
-<br/><br/>
 
 ### Languages I use the most
 
