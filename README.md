@@ -18,7 +18,7 @@
 
 ### Github Stats
 
-<img align="left" alt="urboypx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=urboypx&count_private=true&show_icons=true&theme=midnight-purple" />
+<img align="left" alt="urboypx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=urboypx&count_private=true&show_icons=true&theme=midnight-purple&hide=issues" />
 
 <br/><br/>
 <br/><br/>
@@ -28,4 +28,4 @@
 
 ### Languages I use the most
 
-<img align="left" alt="urboypx's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urboypx&hide=issues&theme=midnight-purple" />
+<img align="left" alt="urboypx's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urboypx&theme=midnight-purple" />
